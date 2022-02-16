@@ -19,6 +19,6 @@
 - Estudante de Engenheria de Produção - IFRS 
 
 ## Onde eu estou  ? 
-[Linkledin](https://linkledin.com/danielvmielke) /n
-[Facebook](https://fb.com/Mielke) /n
+[Linkledin](https://linkledin.com/danielvmielke) \n
+[Facebook](https://fb.com/Mielke) \n
 [Instagram](https://instagram.com/Mielke)
