@@ -1,19 +1,24 @@
 # Readme
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/capa.png">
 
-### Hi there 👋
+# Olá, Sou o  Daniel Mielke
 
-<!--
-**camilafernanda2/camilafernanda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/MielkeDani/MielkeDani/blob/main/capa.png">
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Quem sou eu ? 
+
+### Busco ao máximo compreender problemas e buscar soluções dos mais diversos serviços proposto no mercado.  
+
+- Experiência de mais de 2 anos em diversas área de varejo e consultoria. 
+- Analista de Negócio focado em  Business Intelligence 
+- Instrutor de Power BI 
+- Estudante de Programação 
+- Estudante de Engenheria de Produção - IFRS 
+
+## Onde eu estou  ? 
+[Linkledin](https://linkledin.com/danielvmielke)
+[Facebook](https://fb.com/Mielke)
+[Instagram](https://instagram.com/Mielke)
