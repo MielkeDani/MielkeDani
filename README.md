@@ -1,5 +1,3 @@
-# Readme
-
 # Olá, Sou o  Daniel Mielke
 
 <img src="https://github.com/MielkeDani/MielkeDani/blob/main/capa.png">
@@ -24,3 +22,8 @@
 [Facebook](https://fb.com/Mielke) 
 
 [Instagram](https://instagram.com/mielkedani)
+
+
+--- 
+
+Atualmente iniciei meus estudos de Programação começando em JS principalmente para BackEnd e paralelamente REACT, e TypeScript. 
